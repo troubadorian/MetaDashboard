@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>MorePhotosArray</key>
+		<dict>
+			<key>The first photo</key><string>photo001_medium_640x427.jpg</string>
+			<key>The second photo</key><string>photo002_medium_640x427.jpg</string>
+			<key>The third photo</key><string>photo003_medium_640x427.jpg</string>
+			<key>The fourth photo</key><string>photo004_medium_640x427.jpg</string>
+			<key>The fifth photo</key><string>photo005_medium_640x427.jpg</string>
+			<key>The sixth photo</key><string>photo006_medium_640x427.jpg</string>
+			<key>The seventh photo</key><string>photo007_medium_640x427.jpg</string>
+			<key>The eighth photo</key><string>photo008_medium_640x427.jpg</string>
+			<key>The ninth photo</key><string>photo009_medium_640x427.jpg</string>
+			<key>The tenth photo</key><string>photo010_medium_640x427.jpg</string>
+			<key>The eleventh photo</key><string>photo011_medium_640x427.jpg</string>
+			<key>The twelfth photo</key><string>photo012_medium_640x427.jpg</string>
+			<key>The thirteenth photo</key><string>photo013_medium_640x427.jpg</string>
+			<key>The fourteenth photo</key><string>photo014_medium_640x427.jpg</string>
+			<key>The fifteenth photo</key><string>photo015_medium_640x427.jpg</string>
+			<key>The sixteenth photo</key><string>photo016_medium_640x427.jpg</string>
+			<key>The seventeenth photo</key><string>photo017_medium_640x427.jpg</string>
+			<key>The eighteenth photo</key><string>photo018_medium_640x427.jpg</string>
+			<key>The nineteenth photo</key><string>photo019_medium_640x427.jpg</string>
+			<key>The tweightieth photo</key><string>photo020_medium_640x427.jpg</string>
+			<key>The twentyfirst photo</key><string>photo020_medium_640x427.jpg</string>
+			
+		</dict>
+	</dict>
+</plist>
